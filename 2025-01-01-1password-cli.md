@@ -145,7 +145,7 @@ $ swift run
 But by prepending `op run`
 we read in that `.env` file,
 resolve each vault item reference,
-and injects those values into the evironment:
+and injects those values into the environment:
 
 ```terminal
 $ op run -- swift run
